@@ -7,6 +7,6 @@ Suggests: knitr, rmarkdown, ggplot2 (>= 1.0.1), DiagrammeR (>= 0.8.1),
         Ckmeans.1d.dp (>= 3.3.1), vcd (>= 1.3), testthat, igraph (>=
         1.0.1)
 License: Apache License (== 2.0) | file LICENSE
-MD5sum: 4ef30cbbc7d21419cf27f9344c305eec
+MD5sum: 5fa04b58ed853cf6673152b4a2e2ea7c
 NeedsCompilation: yes
 
